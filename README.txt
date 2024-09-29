@@ -1,6 +1,4 @@
-MAD TOOLS V.1
-Tools FR
+Voici mon multie tools "Mad Tools".
+il est actuelement en développement, donc c'est probable qu'il y ait des petits bugs ou que toutes les options ne soient pas encore mise.
 
-discord : akr_v3
-
-il ya de l html/python/batch
+ce tout a été développé en python, avec du batch et de l'HTML. il a été créé par moi-même AKr.
